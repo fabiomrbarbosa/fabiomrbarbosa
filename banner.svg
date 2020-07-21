@@ -5,15 +5,15 @@
       .banner{
         height: 520px;
         background-color: #13111e;
-        display: grid;
-        grid-template-rows: 100vh;
-        grid-template-columns: 100vw;
+        position: relative;
       }
       .banner__body{
-        justify-self: center;
-        align-self: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%), translateY(-50%);
       }
-      
+
       @keyframes rotating {
         0% {
           transform: rotate(0deg);
@@ -40,6 +40,11 @@
         display: block;
         width: 4rem;
         height: auto;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%), translateY(-50%);
+        transform-origin: center;
       }
 
       .logo__trace path,
@@ -59,11 +64,11 @@
 
       .logo__rays {
         position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%), translateY(-50%);
         width: 9rem;
         height: 9rem;
-        top: -3.35rem;
-        left: -3rem;
-        pointer-events: none;
 
         transform-origin: center;
         animation: stretchingin 4.5s cubic-bezier(0.83, 0, 0.17, 1) forwards, rotating 77s linear infinite;
