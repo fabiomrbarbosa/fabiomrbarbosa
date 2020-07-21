@@ -1,10 +1,8 @@
-<svg role="img" aria-labelledby="title" viewBox="0 0 561 418" xmlns="http://www.w3.org/2000/svg">
+<svg role="img" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg" style="height:520px;background-color:#13111e;">
   <title id="title">Fábio M.R. Barbosa's Github Banner</title>
   <defs>
     <style>
       .banner{
-        height: 520px;
-        background-color: #13111e;
         position: relative;
       }
       .banner__body{
