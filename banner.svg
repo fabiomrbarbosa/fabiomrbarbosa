@@ -1,6 +1,7 @@
 <svg role="img" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1520 520" width="1520" height="520" style="background-color:#13111e;">
   <title id="title">Fábio M.R. Barbosa's Github Banner</title>
-  <style>
+  <style type="text/css">
+    <![CDATA[
       .banner,
       .banner__body{
         display: flex;
@@ -64,7 +65,8 @@
         stroke-dasharray: 110;
         transform: translateZ(0);
       }
-    </style>
+    ]]>
+  </style>
   <g class="banner"><g class="banner__body">
     <g class="logo__monogram">
       <clipPath id="LogoClipPath">
