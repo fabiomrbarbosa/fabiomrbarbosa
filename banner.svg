@@ -1,15 +1,12 @@
-<svg role="img" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg" style="height:520px;background-color:#13111e;">
+<svg role="img" aria-labelledby="title" xmlns="http://www.w3.org/2000/svg" height="520" width="1520" style="background-color:#13111e;">
   <title id="title">Fábio M.R. Barbosa's Github Banner</title>
   <defs>
     <style>
-      .banner{
-        position: relative;
-      }
+      .banner,
       .banner__body{
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translateX(-50%), translateY(-50%);
+        display: flex;
+        align-items: center;
+        justify-items: center;
       }
 
       @keyframes rotating {
@@ -35,13 +32,8 @@
       }
 
       .logo__monogram {
-        display: block;
         width: 4rem;
         height: auto;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translateX(-50%), translateY(-50%);
         transform-origin: center;
       }
 
@@ -61,10 +53,6 @@
       }
 
       .logo__rays {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translateX(-50%), translateY(-50%);
         width: 9rem;
         height: 9rem;
 
