@@ -7,14 +7,7 @@
 	.st1{fill:#15131F;}
 	.st2{fill:none;stroke:#15131F;stroke-miterlimit:10;}
 
-	@keyframes rotating {
-        0% {
-          transform: rotate(0deg);
-        }
-        to {
-          transform: rotate(1turn);
-        }
-      }
+
       @keyframes drawingin {
         to {
           stroke-dashoffset: 0;
@@ -29,22 +22,22 @@
         }
       }
 
-    #LogoTrace path {
+    .st2 {
         stroke-dasharray: 1715;
         stroke-dashoffset: 1715;
         transform: translateZ(0);
         animation: drawingin 2.5s cubic-bezier(0.83, 0, 0.17, 1) forwards;
       }
-    #LogoTrace path + path {
+    .st2 + .st2 {
         animation-delay: 2s;
       }
 
      #Rays {
  transform-origin: center;
-        animation: stretchingin 4.5s cubic-bezier(0.83, 0, 0.17, 1) forwards, rotating 77s linear infinite;
+        animation: stretchingin 4.5s cubic-bezier(0.83, 0, 0.17, 1) forwards;
       }
 
-      #Rays path {
+      .st0 {
         stroke: #aa7d47;
         stroke-dasharray: 110;
         transform: translateZ(0);
