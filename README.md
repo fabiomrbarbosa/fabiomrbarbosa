@@ -1,6 +1,6 @@
 ### Hi, my name is Fábio 👋
 
-<img src="https://raw.githubusercontent.com/fabiomrbarbosa/fabiomrbarbosa/master/banner.min.svg" alt="Fábio M.R. Barbosa — Creative consultant + developer, writer, mystic, traveller. Social media handle: @fabiomrbarbosa. Email: hello@fabiomrbarbosa.com">
+<img src="https://raw.githubusercontent.com/fabiomrbarbosa/fabiomrbarbosa/main/banner.min.svg" alt="Fábio M.R. Barbosa — Creative consultant + developer, writer, mystic, traveller. Social media handle: @fabiomrbarbosa. Email: hello@fabiomrbarbosa.com">
 
 <!--
 **fabiomrbarbosa/fabiomrbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
