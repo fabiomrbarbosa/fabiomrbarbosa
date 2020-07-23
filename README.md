@@ -4,7 +4,7 @@
 
 Welcome! I'm a web developer who also works in the fields of advertising, scriptwriting, translation and more. I'm passionate about open Web standards, semantics and accessibility, and implementing creative and media solutions with a purpose. I'm here to help you manifest the Bigger Picture.
 
-🌱 I'm currently learning more about SVG, animations and what new frameworks like React or Vue can bring to the table.
+🌱 I'm currently learning more about SVG, animations and what the emerging front-end paradigms like React or Vue can bring to the table.
 
 👯 I'm looking to shift from my usual corporate work to collaborating more often with projects and brands committed to a transformative vision, with greater awareness, authenticity and sustainability.
 
