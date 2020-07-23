@@ -13,8 +13,10 @@ Welcome! I'm a web developer who also works in the fields of advertising, script
   2. Every message must have a purpose.
   3. Form **must** follow function.
 
+  Or just pop in anytime for a chat about social affairs, life and the universe.
+
 📫 Reach me through [e-mail](mailto:hello@fabiomrbarbosa.com), on social media via the handle @fabiomrbarbosa, or subscribe my [newsletter](http://eepurl.com/gNzLRz), which I intend to start shipping soon.
 
 🧔🏻 Pronouns: 🏳️‍🌈 He/him
 
-⚡ Fun facts: I'm an irreductible Eurovision Song Contest fan. I've recently taken up crochet as a non-digital hobby. Close friends often call me Teddy. 
+⚡ Fun facts: I'm an incorrigible Eurovision Song Contest fan. I've recently taken up crochet as a non-digital hobby. Also, close friends often call me Teddy. 
